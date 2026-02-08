@@ -7,5 +7,6 @@ class Animal {
 class Dog extends Animal{
     eat() {
         console.log("Dog eats meat")
+        console.log("Dog eats vegs")
     }
 }
